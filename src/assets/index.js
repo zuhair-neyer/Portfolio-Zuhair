@@ -57,7 +57,7 @@ const macbookpro =
 const falverra =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/Screenshot%202025-06-21%20015159.png?updatedAt=1750451051537";
 const tripguide =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tripguide.png?updatedAt=1749961172334";
+  "https://i.postimg.cc/sDgCym0D/Screenshot-2025-07-26-16-13-14.png";
 
 export {
   logo,
