@@ -119,29 +119,29 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Freelance Frontend Developer",
+    title: "Frontend Developer – Personal Projects",
     company_name: "Self-employed",
     icon: freelance, // Replace with any icon you like
     iconBg: "#0188E3",
     date: "Jan 2023 - Present",
     points: [
-      "Built responsive and interactive web apps using React.js, Tailwind CSS, and GSAP.",
-      "Developed and deployed modern landing pages and portfolio websites for clients.",
-      "Integrated APIs and handled form validation, animations, and smooth scroll effects.",
-      "Delivered pixel-perfect UI designs based on Figma and Adobe XD mockups.",
+      "Designed and developed multiple responsive web applications using HTML, CSS, and JavaScript.",
+      "Worked with REST APIs to fetch and display dynamic data in real-time across various tools and platforms.",
+      "Built interactive features like alarms, timers, calendars, games, chatbots, and file converters with custom UI/UX.",
+      "Implemented local storage, real-time updates, animations, and sound integration to enhance user experience.",
     ],
   },
   {
-    title: "Full Stack Development Trainee",
-    company_name: "Sheryians Coding School",
+    title: "JavaScript/Python Development",
+    company_name: "CuriousJr",
     icon: sheryians, // Or institute logo
     iconBg: "#ffff",
     date: "Aug 2023 - Mar 2025",
     points: [
-      "Completed an intensive training program focused on MERN stack development.",
-      "Built multiple full-stack projects, including CRUD apps and authentication systems.",
-      "Worked with tools like Node.js, Express.js, MongoDB, React.js, and Git.",
-      "Gained hands-on experience in deploying apps and following clean code practices.",
+      "Completed hands-on learning in JavaScript and Python development through Curious Jr’s structured curriculum.",
+      "Gained strong foundational skills in programming logic, problem-solving, and real-world application building.",
+      "Worked on interactive coding challenges, mini projects, and logic-based games to sharpen development skills.",
+      "Learned best practices in clean coding, debugging, and building user-focused web functionalities.",
     ],
   },
 ];
