@@ -180,15 +180,15 @@ const projects = [
       "A smart and responsive frontend web app that suggests recipes based on user input. Built using HTML, CSS, JavaScript, and integrated with third-party APIs like Spoonacular, MealDB, and Open Food Facts. Users can search ingredients or dish names and get instant recipe suggestions. The project showcases API integration, clean UI design, and real-time data handling.",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "three.js",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
@@ -206,7 +206,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "typescript",
         color: "pink-text-gradient",
       },
       {
@@ -228,7 +228,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
