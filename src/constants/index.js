@@ -199,8 +199,7 @@ const projects = [
   {
     name: "Cyber-Craft",
     description:
-      "A fully responsive frontend UI for a website builder, built entirely using TypeScript. Users can fill out a form that simulates website generation. This project focuses purely on frontend development with no backend or live functionality. It highlights clean design, component structure, and interactive UI behavior.
-",
+      "A fully responsive frontend UI for a website builder, built entirely using TypeScript. Users can fill out a form that simulates website generation. This project focuses purely on frontend development with no backend or live functionality. It highlights clean design, component structure, and interactive UI behavior.",
     tags: [
       {
         name: "react",
