@@ -175,9 +175,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "MacBookPro-redesign",
+    name: "Recipe-AI",
     description:
-      "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
+      "A smart and responsive frontend web app that suggests recipes based on user input. Built using HTML, CSS, JavaScript, and integrated with third-party APIs like Spoonacular, MealDB, and Open Food Facts. Users can search ingredients or dish names and get instant recipe suggestions. The project showcases API integration, clean UI design, and real-time data handling.",
     tags: [
       {
         name: "react",
@@ -193,13 +193,14 @@ const projects = [
       },
     ],
     image: macbookpro,
-    source_code_link: "https://github.com/gitswastik08/macbook_landingpage",
-    live_website_link: "https://macbookpro3d.netlify.app/",
+    source_code_link: "https://github.com/zuhair-neyer/Recipes-AI",
+    live_website_link: "https://recipes-ai-zuhair.vercel.app/",
   },
   {
-    name: "Falverra Redesign",
+    name: "Cyber-Craft",
     description:
-      "A sleek and animated website redesign for Falverra, combining a clean layout with smooth transitions to deliver an engaging, modern browsing experience that highlights the brand’s visual identity and message.",
+      "A fully responsive frontend UI for a website builder, built entirely using TypeScript. Users can fill out a form that simulates website generation. This project focuses purely on frontend development with no backend or live functionality. It highlights clean design, component structure, and interactive UI behavior.
+",
     tags: [
       {
         name: "react",
@@ -215,13 +216,13 @@ const projects = [
       },
     ],
     image: falverra,
-    source_code_link: "https://github.com/gitswastik08/falverra-redesign",
-    live_website_link: "https://falverra-recode.netlify.app/",
+    source_code_link: "https://github.com/zuhair-neyer/Cyber-Craft",
+    live_website_link: "https://cyber-craft-blue.vercel.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Journey-Sync",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Journey Sync is a full-featured travel app built for groups traveling together. It offers real-time location sharing, itinerary planning, and expense tracking. The app simplifies coordination and communication among group members. Designed for convenience, it enhances the group travel experience from start to finish.",
     tags: [
       {
         name: "nextjs",
@@ -238,9 +239,9 @@ const projects = [
     ],
     image: tripguide,
     // github link ⬇️
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/zuhair-neyer/JourneySync",
     // project link ⬇️
-    live_website_link: "https://app.netlify.com/teams/gitswastik08/projects",
+    live_website_link: "https://journey-sync-one.vercel.app/",
   },
 ];
 
