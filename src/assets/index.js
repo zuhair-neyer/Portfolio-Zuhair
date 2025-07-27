@@ -53,9 +53,9 @@ const freelance =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/company/images.png?updatedAt=1750261804051";
 
 const macbookpro =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/MacbookPro_TGyn1EY09X.png?updatedAt=1750225807061";
+  "https://i.postimg.cc/1zW5bSCN/Screenshot-2025-07-27-17-17-16.png";
 const falverra =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/Screenshot%202025-06-21%20015159.png?updatedAt=1750451051537";
+  "https://i.postimg.cc/6qWcqdVP/canvas.png";
 const tripguide =
   "https://i.postimg.cc/sDgCym0D/Screenshot-2025-07-26-16-13-14.png";
 
