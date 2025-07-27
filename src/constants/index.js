@@ -59,10 +59,6 @@ const services = [
     title: "Backend Developer",
     icon: backend,
   },
-  {
-    title: "MERN Stack",
-    icon: creator,
-  },
 ];
 
 const technologies = [
@@ -91,29 +87,6 @@ const technologies = [
   {
     name: "HTML 5",
     icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
 ];
 
